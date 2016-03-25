@@ -1,0 +1,36 @@
+libavutil/hash.o: \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/hash.c \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/hash.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/adler32.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/attributes.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/crc.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/md5.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/version.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/macros.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/murmur3.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/ripemd.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/sha.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/sha512.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/avstring.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/base64.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/error.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/intreadwrite.h \
+  libavutil/avconfig.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/bswap.h \
+  config.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/aarch64/bswap.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/mem.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/avutil.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/common.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/intmath.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/internal.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/timer.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/log.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/cpu.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/dict.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/pixfmt.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/old_pix_fmts.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/libm.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/intfloat.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/rational.h \
+  /Users/baoyx/Documents/workspace/Github/FFmpeg-iOS/ffmpeg-2.8.3/libavutil/mathematics.h
